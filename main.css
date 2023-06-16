@@ -1,0 +1,88 @@
+body{
+    font-family: 'Averia Serif Libre', cursive;
+}
+
+.navbar{
+    background-color: rgb(32, 31, 31);
+}
+
+#cabecalho .nav .nav-link.active{
+    background-color: #dfdfdf;
+    color: rgb(32, 31, 31);
+}
+
+#cabecalho .nav .nav-link,
+.navbar-brand,
+.navbar-brand:hover,
+button:hover,
+
+.enviar:hover{
+    color: #dfdfdf;
+    
+}
+
+.navbar-toggler{
+    background-color: #dfdfdf;
+}
+
+body{
+    background-color: rgb(224, 224, 224);
+}
+
+.italico{
+    font-family: 'Poppins', sans-serif;
+}
+
+#evento button
+{
+    background-color: rgb(32, 31, 31);
+    color: rgb(255, 255, 255);
+}
+
+.carousel-caption{
+    color: #fff;
+}
+
+.lora{
+    font-family: 'Lora', serif;
+}
+
+#cardapio .text-colored{
+    color: #fff;
+    background-color: rgb(90, 90, 90);
+}
+
+.border-bottom{
+    border-top:#000000 1px solid ;
+}
+
+#fale-conosco .section-title{
+    background-color: rgb(224, 224, 224);
+    color: rgb(0, 0, 0);
+}
+
+#fale-conosco .enviar{
+    background-color: rgb(32, 31, 31);
+    color: rgb(255, 255, 255);
+}
+
+.margem{
+    margin-right: 4px;
+}
+
+@media (max-width: 767px){
+    html{
+        overflow-x: hidden;
+        
+        
+    }
+
+    html .sticky-top{
+        position:fixed;
+        width: 100%;
+    }
+   
+}
+
+
+
