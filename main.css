@@ -70,19 +70,4 @@ body{
     margin-right: 4px;
 }
 
-@media (max-width: 767px){
-    html{
-        overflow-x: hidden;
-        
-        
-    }
-
-    html .sticky-top{
-        position:fixed;
-        width: 100%;
-    }
-   
-}
-
-
 
